@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hello Friend...
+
+ ## Are you a **one** or a **zero** ?
 
 
 
-
-### You gotta check these links:
+### You gotta examine these links:
 
 [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -35,7 +36,7 @@
 ---
 
 
-[website]: https://bratac.net/ykostov
+[website]: https://bratac.net
 
 [twitter]: https://twitter.com/qskatak
 [youtube]: https://www.youtube.com/channel/UCa4SDiy7yda4CTMgsjS-Phw?view_as=subscriber
