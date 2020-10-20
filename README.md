@@ -1,8 +1,6 @@
 ### Hello Friend...
 
- ## Are you a **one** or a **zero** ?
-
-
+  * Bra'Tac
 
 ### You gotta examine these links:
 
