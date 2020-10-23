@@ -1,10 +1,15 @@
 ## Hello Friend...
-### My websites so far:
+  
+> A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are.  
+
+
+<!-- ### My websites so far:
   * BraTac.net [https://bratac.net]
   * Offside24.net [https://offside24.net]
   * Animated Bratac [https://bratac.net/new]
   * A website for a celebrity [https://vg.bratac.net]
-  * and much more....
+  * and much more.... -->
+
 
 
 ### You gotta examine these links:
