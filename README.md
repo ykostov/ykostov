@@ -1,9 +1,8 @@
 ## Hello Friend...
   
-> "A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are.  "
-<!-- > "Wars Aren’t Meant To Be Won"
-> "Control Is An Illusion"
-> "Only the paranoid survive."
+<!-- > "A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are.  " -->
+> "Wars Aren’t Meant To Be Won"
+<!-- > "Control Is An Illusion"
 > "It is not a paranoia if they're really out to get you -->
 
  ### My works so far:
@@ -15,9 +14,9 @@
 
 
 
-### You gotta examine these links:
+<!-- ### You gotta examine these links:
 
-[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!--[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -51,4 +50,4 @@
 
 [twitter]: https://twitter.com/qskatak
 [youtube]: https://www.youtube.com/channel/UCa4SDiy7yda4CTMgsjS-Phw?view_as=subscriber
-[instagram]: https://instagram.com/qskatak
+[instagram]: https://instagram.com/qskatak -->
