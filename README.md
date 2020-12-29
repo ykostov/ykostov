@@ -1,17 +1,17 @@
 ## Hello Friend...
   
 <!-- > "A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are.  " -->
-> "Wars Aren’t Meant To Be Won"
+<!--> "Wars Aren’t Meant To Be Won" -->
 <!-- > "Control Is An Illusion"
 > "It is not a paranoia if they're really out to get you -->
-
+<!--
  ### My works so far:
   * BraTac.net [https://bratac.net]
   * Offside24.net [https://offside24.net]
   * Animated Bratac [https://bratac.net/new]
   * A website for a celebrity [https://vg.bratac.net]
   * and much more....
-
+-->
 
 
 <!-- ### You gotta examine these links:
