@@ -1,7 +1,7 @@
 ## Hello Friend...
   
 <!-- > "A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are.  " -->
-<!--> "Wars Aren’t Meant To Be Won" -->
+<!-- > "Wars Aren’t Meant To Be Won" -->
 <!-- > "Control Is An Illusion"
 > "It is not a paranoia if they're really out to get you -->
 <!--
