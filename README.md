@@ -18,8 +18,8 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=ykostov&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
 <br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ykostov&layout=compact&theme=chartreuse-dark" />
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ykostov)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ykostov)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!-- ### You gotta examine these links:
 
 <!--[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
