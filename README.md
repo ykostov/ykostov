@@ -5,12 +5,7 @@
 <!-- > "Control Is An Illusion"
 > "It is not a paranoia if they're really out to get you -->
 <!--
- ### My works so far:
-  * BraTac.net [https://bratac.net]
-  * Offside24.net [https://offside24.net]
-  * Animated Bratac [https://bratac.net/new]
-  * A website for a celebrity [https://vg.bratac.net]
-  * and much more....
+
 -->
 
 <!-- GitHub stats -->
@@ -28,6 +23,16 @@
 [<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+-->
+
+ ### Online websites by the moment:
+  * BraTac.net [https://bratac.net]
+  * Offside24.net [https://offside24.net]
+  * Animated Bratac [https://bratac.net/new]
+  * A website for a celebrity [https://vg.bratac.net]
+  * and much more....
+
+<!--
 
 ### Languages and Tools:
 
