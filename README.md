@@ -6,9 +6,9 @@
 
 ### My Stats here
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ykostov&show_icons=true&include_all_commits=true&theme=cobalt)
+![github stats](https://github-readme-stats.vercel.app/api?username=ykostov&show_icons=true&include_all_commits=true&theme=merko)
 <br>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ykostov&hide=javascript&layout=compact&langs_count=10&theme=Gradient" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ykostov&hide=javascript&layout=compact&langs_count=10&theme=merko" />
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ykostov)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <!-- ### You gotta examine these links:
