@@ -10,9 +10,10 @@
 <br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ykostov&&layout=compact&langs_count=10&theme=merko" />
 
- ### Online websites by the moment:
-  * BraTac.net [https://bratac.net]
-  * Offside24.net [https://offside24.net]
-  * Animated Bratac [https://bratac.net/new]
-  * A website for a celebrity [https://vg.bratac.net]
+ ### My work being online right now:
+  * [BraTac's website](https://bratac.net)
+  * [OFFSide24.net](https://offside24.net)
+  * [Animated Bratac](https://bratac.net/new)
+  * [Website for a celebrity](https://vg.bratac.net)
+  * [Study Group Of Elixir lang.](https://elixirstudy.group)
   * and much more....
