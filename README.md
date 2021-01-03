@@ -1,18 +1,14 @@
 ## Hello Friend...
-  
-> "A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are.  "
-<!-- > "Wars Aren’t Meant To Be Won" -->
-<!-- > "Control Is An Illusion"
-> "It is not a paranoia if they're really out to get you -->
-<!--
 
--->
+> "A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are."
 
 <!-- GitHub stats -->
+
 ### My Stats here
-![github stats](https://github-readme-stats.vercel.app/api?username=ykostov&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=ykostov&show_icons=true&include_all_commits=true&theme=cobalt)
 <br>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ykostov&layout=compact&theme=chartreuse-dark" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ykostov&hide=javascript&layout=compact&langs_count=10&theme=Gradient" />
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ykostov)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <!-- ### You gotta examine these links:
