@@ -2,6 +2,7 @@
 
 > "A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are."
 
+<h4> Currently Web Developer focused on Rails ; TODO: Learn Elixir </h4>
 <!-- GitHub stats -->
 
 ### My Stats here
