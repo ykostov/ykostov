@@ -20,7 +20,6 @@
   * [BraTac's website](https://bratac.net)
   * [OFFSide24.net](https://offside24.net)
   * [Tennis_rails](https://tennisburgas.com)
-  * [Animated Bratac](https://bratac.net/new)
   * [Website for a celebrity](https://vg.bratac.net)
   
 
