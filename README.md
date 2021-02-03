@@ -5,9 +5,6 @@
 
 <!-- GitHub stats -->
 
-### My Stats here
-
-![github stats](https://github-readme-stats.vercel.app/api?username=ykostov&show_icons=true&include_all_commits=true&theme=merko)
 <br>
 
  ### My work being online right now:
