@@ -15,11 +15,18 @@
 
 <br>
 
- ### Find out my online work now :)
+ ### My online work right now :)
  
   * [BraTac's website](https://bratac.net)
   * [OFFSide24.net](https://offside24.net)
   * [Tennis_rails](https://tennisburgas.com)
   * [Website for a celebrity](https://vg.bratac.net)
+
+
+### Contributor to:
+
+  * [N-Patarov/bgsite_official](https://github.com/N-Patarov/bgsite_official)
+  * [rmilushev/studygroup](https://github.com/rmilushev/studygroup)
+  * [AlenBG/Tutorial](https://github.com/AlenBG/Tutorial)
   
 
