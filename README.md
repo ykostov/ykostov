@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
+***********************************
 
 ### My work
 
@@ -68,18 +69,18 @@
 
 <!-- GitHub stats -->
 
-<br>
+<!-- <br>
 
  ### My online work right now :)
 
   * [BraTac's website](https://bratac.net)
-  * [OFFSide24.net](https://offside24.net)
+  * [OFFSide24.net](https://offside24.net) -->
   <!--* [Tennis_rails](https://tennisburgas.com)
   * [Website for a celebrity](https://vg.bratac.net) -->
 
 
-### Contributor to:
+<!-- ### Contributor to:
 
   * [N-Patarov/bgsite_official](https://github.com/N-Patarov/bgsite_official)
   * [rmilushev/studygroup](https://github.com/rmilushev/studygroup)
-  * [AlenBG/Tutorial](https://github.com/AlenBG/Tutorial)
+  * [AlenBG/Tutorial](https://github.com/AlenBG/Tutorial) -->
