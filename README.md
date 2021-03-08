@@ -42,7 +42,7 @@
 
 <p align='center'>
 <a href="https://github.com/ykostov/offside_rails"><img title="Offside24.net" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=offside_rails&theme=dark"></a>
-<a href="https://github.com/bhikandeshmukh/instarat"><img title="instarat" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=instarat&theme=default"></a>
+<a href="https://github.com/ykostov/friendczar.app"><img title="FriendCzar" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=friendczar.app&theme=default"></a>
 <a href="https://github.com/bhikandeshmukh/badges"><img title="AdvPhishing" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=badges&theme=dark"></a>
 <a href="https://github.com/bhikandeshmukh/CamPhish"><img title="Blackeye-v2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=CamPhish&theme=default"></a>
 
