@@ -18,19 +18,19 @@
 
 <p align='center'>
 
-<a href="https://www.instagram.com/bhikan_deshmukh/">
+<a href="https://www.instagram.com/bratac_official/">
 <img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/bhikanbeshmukh/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCa4SDiy7yda4CTMgsjS-Phw">
+<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ykostov&show_icons=true&count_private=true&theme=default" width="350"></a>
 </p>
 
 <p align='center'>
-  💻 My workspace 💻<br/><br/>
-  <img src="https://img.shields.io/badge/debian-%230078D6.svg?&style=for-the-badge&logo=debian&logoColor=white" />
+  💻 My laptop 💻<br/><br/>
+  <img src="https://img.shields.io/badge/ubuntu-%230078D6.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i7%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
