@@ -28,6 +28,15 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ykostov&show_icons=true&count_private=true&theme=default" width="350"></a>
 </p>
 
+<p align='center'>
+  💻 My workspace 💻<br/><br/>
+  <img src="https://img.shields.io/badge/debian-%230078D6.svg?&style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i7%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
+
 
 > "A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are."
 >
