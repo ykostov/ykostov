@@ -53,7 +53,7 @@
 ### Contributor in:
 
 <p align='center'>
-<a href="https://github.com/N-Patarov/bgsite_official"><img title="Sites.bg" src="https://github-readme-stats.vercel.app/api/pin/?username=N0=-Patarov&repo=bgsite_official&theme=dark"></a>
+<a href="https://github.com/N-Patarov/bgsite_official"><img title="Sites.bg" src="https://github-readme-stats.vercel.app/api/pin/?username=N-Patarov&repo=bgsite_official&theme=dark"></a>
 <a href="https://github.com/rmilushev/studygroup"><img title="StudyGroup" src="https://github-readme-stats.vercel.app/api/pin/?username=rmilushev&repo=studygroup&theme=dark"></a>
 <a href="https://github.com/AlenBG/Tutorial"><img title="Tutorial website" src="https://github-readme-stats.vercel.app/api/pin/?username=AlenBG&repo=tutorial&theme=dark"></a>
 <!-- <a href="https://github.com/ykostov/friendczar.app"><img title="FriendCzar" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=friendczar.app&theme=dark"></a> -->
