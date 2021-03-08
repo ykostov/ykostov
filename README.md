@@ -13,7 +13,7 @@
 </h1>
 
 <h4 align='center'>
-    ♨️ FOLLOW ♨️
+    ♨️ FOLLOW ME ♨️
 </h4>
 
 <p align='center'>
@@ -24,6 +24,9 @@
 <a href="https://www.linkedin.com/in/bhikanbeshmukh/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ykostov&show_icons=true&count_private=true&theme=default" width="350"></a>
+</p>
 
 
 > "A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are."
