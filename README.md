@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ykostov&show_icons=true&count_private=true&theme=default" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ykostov&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
@@ -37,9 +37,9 @@
 </p>
 
 ***********************************
-<p class = "center">
+
 ### MY WORK:
-</p>
+
 
 <p align='center'>
 <a href="https://github.com/ykostov/offside_rails"><img title="Offside24.net" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=offside_rails&theme=dark"></a>
@@ -58,6 +58,8 @@
 <a href="https://github.com/AlenBG/Tutorial"><img title="Tutorial website" src="https://github-readme-stats.vercel.app/api/pin/?username=AlenBG&repo=tutorial&theme=dark"></a>
 <!-- <a href="https://github.com/ykostov/friendczar.app"><img title="FriendCzar" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=friendczar.app&theme=dark"></a> -->
 </p>
+
+***********************************
 
 <!-- ### Languages and Tools... -->
 
