@@ -37,19 +37,27 @@
 </p>
 
 ***********************************
-
-### My work
-
+<p class = "center">
+### MY WORK:
+</p>
 
 <p align='center'>
 <a href="https://github.com/ykostov/offside_rails"><img title="Offside24.net" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=offside_rails&theme=dark"></a>
 <a href="https://github.com/ykostov/tennis_rails"><img title="Tennis_rails" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=tennis_rails&theme=dark"></a>
 <a href="https://github.com/ykostov/bratac_official"><img title="Bratac.net" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=bratac_official&theme=dark"></a>
 <a href="https://github.com/ykostov/friendczar.app"><img title="FriendCzar" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=friendczar.app&theme=dark"></a>
+</p>
 
+***********************************
 
+### Contributor in:
 
-
+<p align='center'>
+<a href="https://github.com/N-Patarov/bgsite_official"><img title="Sites.bg" src="https://github-readme-stats.vercel.app/api/pin/?username=N0=-Patarov&repo=bgsite_official&theme=dark"></a>
+<a href="https://github.com/rmilushev/studygroup"><img title="StudyGroup" src="https://github-readme-stats.vercel.app/api/pin/?username=rmilushev&repo=studygroup&theme=dark"></a>
+<a href="https://github.com/AlenBG/Tutorial"><img title="Tutorial website" src="https://github-readme-stats.vercel.app/api/pin/?username=AlenBG&repo=tutorial&theme=dark"></a>
+<!-- <a href="https://github.com/ykostov/friendczar.app"><img title="FriendCzar" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=friendczar.app&theme=dark"></a> -->
+</p>
 
 <!-- ### Languages and Tools... -->
 
@@ -64,7 +72,7 @@
 <br/><br/>
 </p> -->
 
-***********************************
+
 
 
 <!-- GitHub stats -->
