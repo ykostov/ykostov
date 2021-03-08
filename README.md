@@ -36,25 +36,16 @@
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-<details>
-  <summary>Best Tools</summary><br>
-<p align="center">
-<a href="https://github.com/bhikandeshmukh/MaskPhish"><img title="Shark" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=MaskPhish&theme=dark"></a><br>
-<a href="https://github.com/bhikandeshmukh/instainsane"><img title="instarat" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=instainsane&theme=default"></a><br>
-<a href="https://github.com/bhikandeshmukh/DroidTracker"><img title="AdvPhishing" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=DroidTracker&theme=dark"></a><br>
-<a href="https://github.com/bhikandeshmukh/ipgeolocation"><img title="Blackeye-v2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=ipgeolocation&theme=default"></a><br>
-<a href="https://github.com/bhikandeshmukh/sheller"><img title="Blackeye-v2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=sheller&theme=dark"></a><br>
-<a href="https://github.com/bhikandeshmukh/userrecon"><img title="Blackeye-v2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=userrecon&theme=default"></a><br>
-</p>
 
-</details>
+### My work
+
 
 <p align='center'>
-<a href="https://github.com/bhikandeshmukh/shark"><img title="Shark" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=shark&theme=dark"></a>
+<a href="https://github.com/ykostov/offside_rails"><img title="Offside24.net" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=offside_rails&theme=dark"></a>
 <a href="https://github.com/bhikandeshmukh/instarat"><img title="instarat" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=instarat&theme=default"></a>
 <a href="https://github.com/bhikandeshmukh/badges"><img title="AdvPhishing" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=badges&theme=dark"></a>
 <a href="https://github.com/bhikandeshmukh/CamPhish"><img title="Blackeye-v2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=CamPhish&theme=default"></a>
-</a>
+
 
 
 
