@@ -38,8 +38,10 @@
 
 ***********************************
 
-<h2 class="center" My Work </h2>
 
+<h3 align='center'>
+    My Work
+</h3>
 
 <p align='center'>
 <a href="https://github.com/ykostov/offside_rails"><img title="Offside24.net" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=offside_rails&theme=dark"></a>
