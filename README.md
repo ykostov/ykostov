@@ -29,7 +29,7 @@
 </p>
 
 <p align='center'>
-  💻 My laptop 💻<br/><br/>
+  💻 My Specs 💻<br/><br/>
   <img src="https://img.shields.io/badge/ubuntu-%230078D6.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i7%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
@@ -38,7 +38,7 @@
 
 ***********************************
 
-### MY WORK:
+<h2 class="center" My Work </h2>
 
 
 <p align='center'>
@@ -50,7 +50,7 @@
 
 ***********************************
 
-### Contributor in:
+<h2 class="center" Contributor in: </h2>
 
 <p align='center'>
 <a href="https://github.com/N-Patarov/bgsite_official"><img title="Sites.bg" src="https://github-readme-stats.vercel.app/api/pin/?username=N-Patarov&repo=bgsite_official&theme=dark"></a>
