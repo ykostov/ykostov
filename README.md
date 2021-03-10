@@ -40,7 +40,7 @@
 
 
 <h3 align='center'>
-    My Work
+    My Work:
 </h3>
 
 <p align='center'>
@@ -52,7 +52,9 @@
 
 ***********************************
 
-<h2 class="center" Contributor in: </h2>
+<h3 align='center'>
+    Contributor in:
+</h3>
 
 <p align='center'>
 <a href="https://github.com/N-Patarov/bgsite_official"><img title="Sites.bg" src="https://github-readme-stats.vercel.app/api/pin/?username=N-Patarov&repo=bgsite_official&theme=dark"></a>
