@@ -63,6 +63,8 @@
 <!-- <a href="https://github.com/ykostov/friendczar.app"><img title="FriendCzar" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=friendczar.app&theme=dark"></a> -->
 </p>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ykostov)](https://github.com/anuraghazra/github-readme-stats)
+
 ***********************************
 
 <!-- ### Languages and Tools... -->
