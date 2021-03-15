@@ -47,7 +47,8 @@
 <a href="https://github.com/ykostov/offside_rails"><img title="Offside24.net" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=offside_rails&theme=dark"></a>
 <a href="https://github.com/ykostov/tennis_rails"><img title="Tennis_rails" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=tennis_rails&theme=dark"></a>
 <a href="https://github.com/ykostov/bratac_official"><img title="Bratac.net" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=bratac_official&theme=dark"></a>
-<a href="https://github.com/ykostov/friendczar.app"><img title="FriendCzar" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=friendczar.app&theme=dark"></a>
+<!-- <a href="https://github.com/ykostov/friendczar.app"><img title="FriendCzar" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=friendczar.app&theme=dark"></a> -->
+<a href="https://github.com/ykostov/anet_rails"><img title="Anet_rails" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=anet_rails&theme=dark"></a>
 </p>
 
 ***********************************
