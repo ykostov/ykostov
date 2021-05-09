@@ -29,11 +29,11 @@
 </p>
 
 <p align='center'>
-  💻 My Specs 💻<br/><br/>
+  💻 Tech Stack 💻<br/><br/>
   <img src="https://img.shields.io/badge/ubuntu-%230078D6.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i7%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elixir-Phoenix-%230071C5.svg?&style=for-the-badge&logo=elixir&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-Rails-%230071C5.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-CSS-%2376B900.svg?&style=for-the-badge&logo=html&logoColor=white" />
 </p>
 
 ***********************************
@@ -44,11 +44,12 @@
 </h3>
 
 <p align='center'>
+<a href="https://github.com/N-Patarov/bgsite_official"><img title="Izberi.Site" src="https://github-readme-stats.vercel.app/api/pin/?username=N-Patarov&repo=bgsite_official&theme=dark"></a>
+<a href="https://github.com/ykostov/tennis.phx"><img title="Tennis.phx" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=tennis.phx&theme=dark"></a>
 <a href="https://github.com/ykostov/offside_rails"><img title="Offside24.net" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=offside_rails&theme=dark"></a>
-<a href="https://github.com/ykostov/tennis_rails"><img title="Tennis_rails" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=tennis_rails&theme=dark"></a>
-<a href="https://github.com/ykostov/bratac_official"><img title="Bratac.net" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=bratac_official&theme=dark"></a>
+<a href="https://github.com/ykostov/bratac_tailwind"><img title="Bratac.net" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=bratac_tailwind&theme=dark"></a>
 <!-- <a href="https://github.com/ykostov/friendczar.app"><img title="FriendCzar" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=friendczar.app&theme=dark"></a> -->
-<a href="https://github.com/ykostov/falcon_rails"><img title="Falcon_rails" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=falcon_rails&theme=dark"></a>
+<!-- <a href="https://github.com/ykostov/falcon_rails"><img title="Falcon_rails" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=falcon_rails&theme=dark"></a> -->
 </p>
 
 ***********************************
@@ -58,7 +59,6 @@
 </h3>
 
 <p align='center'>
-<a href="https://github.com/N-Patarov/bgsite_official"><img title="Sites.bg" src="https://github-readme-stats.vercel.app/api/pin/?username=N-Patarov&repo=bgsite_official&theme=dark"></a>
 <a href="https://github.com/rmilushev/studygroup"><img title="StudyGroup" src="https://github-readme-stats.vercel.app/api/pin/?username=rmilushev&repo=studygroup&theme=dark"></a>
 <a href="https://github.com/AlenBG/Tutorial"><img title="Tutorial website" src="https://github-readme-stats.vercel.app/api/pin/?username=AlenBG&repo=tutorial&theme=dark"></a>
 <!-- <a href="https://github.com/ykostov/friendczar.app"><img title="FriendCzar" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=friendczar.app&theme=dark"></a> -->
