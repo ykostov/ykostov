@@ -18,6 +18,8 @@
 
 <p align='center'>
 
+<a href="https://stackoverflow.com/users/11731139/ykostov?tab=profile">
+<img src="https://img.shields.io/badge/stackoverflow-%230077B5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/bratac_official/">
 <img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>&nbsp;&nbsp;
