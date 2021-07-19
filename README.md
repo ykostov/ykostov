@@ -40,6 +40,14 @@
 
 ***********************************
 
+<p align='center'>
+  💻 Tech Stack 💻<br/><br/>
+  <img src="https://img.shields.io/badge/ubuntu-%230078D6.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elixir-Phoenix-%230071C5.svg?&style=for-the-badge&logo=elixir&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-Rails-%230071C5.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-CSS-%2376B900.svg?&style=for-the-badge&logo=html&logoColor=white" />
+</p>
+
 
 <h3 align='center'>
     My Work:
