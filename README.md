@@ -42,6 +42,9 @@
 
 <p align='center'>
   🌐 Online Websites 🌐<br/><br/>
+  <a href="https://shop.bratac.net">
+    <img src="https://img.shields.io/badge/Shopper-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
+  </a>
   <a href="https://izberi.site">
     <img src="https://img.shields.io/badge/Izberi.site-4B275F?&style=for-the-badge&logo=elixir&logoColor=white" />
   </a>
