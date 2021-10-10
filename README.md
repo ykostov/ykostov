@@ -65,7 +65,7 @@
 <a href="https://github.com/N-Patarov/bgsite_official"><img title="Izberi.Site" src="https://github-readme-stats.vercel.app/api/pin/?username=N-Patarov&repo=bgsite_official&theme=dark"></a>
 <a href="https://github.com/ykostov/tennis.phx"><img title="Tennis.phx" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=tennis.phx&theme=dark"></a>
 <a href="https://github.com/ykostov/offside_rails"><img title="Offside24.net" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=offside_rails&theme=dark"></a>
-<a href="https://github.com/ykostov/bunting_rails"><img title="Rails E-commerce" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=bunting_rails&theme=dark"></a>
+<a href="http://shop.bratac.net"><img title="Shopper" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=shopper_rails&theme=dark"></a>
 <!-- <a href="https://github.com/ykostov/friendczar.app"><img title="FriendCzar" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=friendczar.app&theme=dark"></a> -->
 <!-- <a href="https://github.com/ykostov/falcon_rails"><img title="Falcon_rails" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=falcon_rails&theme=dark"></a> -->
 </p>
