@@ -57,9 +57,9 @@
 </p>
 
 ***********************************
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykostov">
-
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykostov&theme=dark">
+</p>
 ***********************************
 <p align='center'>
   <a href="https://www.digitalocean.com/?refcode=21c727ae3adb&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
