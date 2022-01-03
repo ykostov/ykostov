@@ -42,33 +42,23 @@
 
 <p align='center'>
   🌐 Online Websites 🌐<br/><br/>
+  <a href="https://offside24.net">
+    <img src="https://img.shields.io/badge/Offside24.net-%23CC342D.svg?&style=for-the-badge&logo=elixir&logoColor=white" />
+  </a>
   <a href="https://shop.bratac.net">
     <img src="https://img.shields.io/badge/Shopper-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
   </a>
   <a href="https://izberi.site">
     <img src="https://img.shields.io/badge/Izberi.site-4B275F?&style=for-the-badge&logo=elixir&logoColor=white" />
   </a>
-  <a href="https://offside24.net">
-    <img src="https://img.shields.io/badge/Offside24.net-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
-  </a>
   <a href="https://bratac.net">
     <img src="https://img.shields.io/badge/BraTac.net-%230071C5.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </a>
 </p>
 
+***********************************
 
-<h3 align='center'>
-    My Work:
-</h3>
-
-<p align='center'>
-<a href="https://github.com/N-Patarov/bgsite_official"><img title="Izberi.Site" src="https://github-readme-stats.vercel.app/api/pin/?username=N-Patarov&repo=bgsite_official&theme=dark"></a>
-<a href="https://github.com/ykostov/tennis.phx"><img title="Tennis.phx" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=tennis.phx&theme=dark"></a>
-<a href="https://github.com/ykostov/offside_rails"><img title="Offside24.net" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=offside_rails&theme=dark"></a>
-<a href="http://shop.bratac.net"><img title="Shopper" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=shopper_rails&theme=dark"></a>
-<!-- <a href="https://github.com/ykostov/friendczar.app"><img title="FriendCzar" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=friendczar.app&theme=dark"></a> -->
-<!-- <a href="https://github.com/ykostov/falcon_rails"><img title="Falcon_rails" src="https://github-readme-stats.vercel.app/api/pin/?username=ykostov&repo=falcon_rails&theme=dark"></a> -->
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykostov">
 
 ***********************************
 <p align='center'>
