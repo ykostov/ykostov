@@ -43,7 +43,7 @@
 <p align='center'>
   🌐 Online Websites 🌐<br/><br/>
   <a href="https://offside24.net">
-    <img src="https://img.shields.io/badge/Offside24.net-%23CC342D.svg?&style=for-the-badge&logo=elixir&logoColor=white" />
+    <img src="https://img.shields.io/badge/Offside24.net-4B275F?&style=for-the-badge&logo=elixir&logoColor=white" />
   </a>
   <a href="https://shop.bratac.net">
     <img src="https://img.shields.io/badge/Shopper-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
