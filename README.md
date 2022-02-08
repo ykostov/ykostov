@@ -42,6 +42,12 @@
 
 <p align='center'>
   🌐 Online Websites 🌐<br/><br/>
+  <a href="https://tennis.bratac.net">
+    <img src="https://img.shields.io/badge/Phoenix.Tennis-4B275F?&style=for-the-badge&logo=elixir&logoColor=white" />
+  </a>
+  <a href="https://bratac.net">
+    <img src="https://img.shields.io/badge/BraTac.net-%230071C5.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </a>
   <a href="https://offside24.net">
     <img src="https://img.shields.io/badge/Offside24.net-4B275F?&style=for-the-badge&logo=elixir&logoColor=white" />
   </a>
