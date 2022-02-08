@@ -57,9 +57,6 @@
   <a href="https://izberi.site">
     <img src="https://img.shields.io/badge/Izberi.site-4B275F?&style=for-the-badge&logo=elixir&logoColor=white" />
   </a>
-  <a href="https://bratac.net">
-    <img src="https://img.shields.io/badge/BraTac.net-%230071C5.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </a>
 </p>
 
 ***********************************
