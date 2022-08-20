@@ -1,32 +1,34 @@
-<h1 align='center'>
-  Hello_Friend.deb <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HCkbgKLdLWq3OCV8YM/giphy.gif" width="100"/>  
+</div>
 
 <!--
-<h4 align='center'>
-    ♨️ FOLLOW ME ♨️
-</h4>
+
+<div align='center'>
+
+  <div id="badges">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://komarev.com/ghpvc/?username=ykostov&style=flat-square&color=blue" alt=""/>
+  </div>
+  
+</div> -->
+
+<h1 align='center'>
+  helloFriend.deb <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
+
+
 
 <p align='center'>
-
-<a href="https://stackoverflow.com/users/11731139/ykostov?tab=profile">
-<img src="https://img.shields.io/badge/stackoverflow-%230077B5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/bratac_official/">
-<img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCa4SDiy7yda4CTMgsjS-Phw">
-<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;
-
--->
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ykostov&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="http://github-readme-streak-stats.herokuapp.com?user=ykostov&theme=dark&background=000000"> </a>
 </p>
+
 
 <p align='center'>
   💻 Tech Stack 💻<br/><br/>
-  <img src="https://img.shields.io/badge/Manjaro_Linux-%2335BF5C.svg?&style=for-the-badge&logo=manjaro&logoColor=white" />
-  <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manjaro_Linux-%2335BF5C.svg?&style=for-the-badge&logo=manjaro&logoColor=white" />  
   <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />  
   <img src="https://img.shields.io/badge/Elixir_Phoenix-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />  
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -35,7 +37,7 @@
 ***********************************
 
 <p align='center'>
-  🌐 Online Websites 🌐<br/><br/>
+  🌐 Online Work 🌐<br/><br/>
   <a href="https://tennis.bratac.net">
     <img src="https://img.shields.io/badge/Tennis.Elixir-4B275F?&style=for-the-badge&logo=elixir&logoColor=white" />
   </a>
