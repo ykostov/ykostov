@@ -28,8 +28,8 @@
 
 <p align='center'>
   💻 Tech Stack 💻<br/><br/>
-  <img src="https://img.shields.io/badge/Manjaro_Linux-%2335BF5C.svg?&style=for-the-badge&logo=manjaro&logoColor=white" />  
-  <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />  
   <img src="https://img.shields.io/badge/Elixir_Phoenix-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />  
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
