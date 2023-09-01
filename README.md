@@ -28,34 +28,43 @@
 
 <p align='center'>
   💻 Tech Stack 💻<br/><br/>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Elixir_Phoenix-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elixir_Phoenix-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />    
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ***********************************
 
 <p align='center'>
-  🌐 Online Work 🌐<br/><br/>
-  <a href="https://tennis.bratac.net">
-    <img src="https://img.shields.io/badge/Tennis.Elixir-4B275F?&style=for-the-badge&logo=elixir&logoColor=white" />
-  </a>
-  <a href="https://bratac.net">
-    <img src="https://img.shields.io/badge/BraTac.net-%230071C5.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  🌐 Online Projects 🌐<br/><br/>
+  <a href="https://bratac.pro">
+    <img src="https://img.shields.io/badge/TennisMasa.online-4B275F?&style=for-the-badge&logo=elixir&logoColor=white" />
+  </a> 
+   <a href="https://friendczar.bratac.pro">
+    <img src="https://img.shields.io/badge/Friendczar.app-4B275F?&style=for-the-badge&logo=elixir&logoColor=white" />
   </a>
   <a href="https://offside24.net">
     <img src="https://img.shields.io/badge/Offside24.net-4B275F?&style=for-the-badge&logo=elixir&logoColor=white" />
   </a>
-  <a href="https://izberi.bratac.net">
+  <a href="https://izberi.bratac.pro">
     <img src="https://img.shields.io/badge/Izberi.site-4B275F?&style=for-the-badge&logo=elixir&logoColor=white" />
   </a>
 </p>
 
 ***********************************
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykostov&hide=html,css,javascript,haml,shell,&theme=dark&layout=compact&&langs_count=4">
-</p>
+<!--<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykostov&hide=html,css,javascript,haml,shell,ruby,scss,php,python&theme=dark&layout=compact&&langs_count=4">
+</p>-->
+### About Me :
+
+- :telescope: I am studying CyberSecurity in Technical University of Sofia
+
+- 👨‍💻 I have a good enough background in Full Stack applications, mostly on Elixir Phoenix 1.6 & 1.7. I have created my own organisation - [Bratac Technologies](https://github.com/BraTac-Technologies) where you can see my open source projects
+
+- 🎾: In my free time, I I play tennis at a competitive level
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yasen_Kostov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasen-kostov-476234244/)
 
 ***********************************
 <p align='center'>
