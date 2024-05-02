@@ -58,11 +58,9 @@
 </p>-->
 ### About Me :
 
-- :telescope: I am studying CyberSecurity in Technical University of Sofia
+- 👨‍💻 I have a background in Full Stack applications working mostly with Elixir Phoenix 1.7 for the past 3 years. I have created my own organisation - [Bratac Technologies](https://github.com/BraTac-Technologies) where you can find my open-source projects
 
-- 👨‍💻 I have a good enough background in Full Stack applications, mostly on Elixir Phoenix 1.6 & 1.7. I have created my own organisation - [Bratac Technologies](https://github.com/BraTac-Technologies) where you can see my open source projects
-
-- 🎾: In my free time, I I play tennis at a competitive level
+- 🎾: In my free time, I play tennis at a competitive level
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yasen_Kostov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasen-kostov-476234244/)
 
