@@ -72,7 +72,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-As both a programmer and a cybersecurity newbie, I combine two of the most important branches in IT. I specialize in building full-stack applications using the Elixir language and its framework, Phoenix. I also have solid knowledge of database management, primarily with Postgres, and frontend libraries like Tailwind and Bootstrap. I have an intermediate understanding of cybersecurity, as I am studying it at the Technical University of Sofia. In my free time, I play tennis at a competitive level.
+As both a experienced programmer and a cybersecurity enthusiast, I combine two of the most important branches in IT. I specialize in building full-stack applications using the Elixir language and its framework, Phoenix. I also have solid knowledge of database management, primarily with Postgres, frontend libraries like Tailwind and Bootstrap and other languages such as Ruby, Python and Rust. For contacts: ykostov@pm.me
 
 <h3 align="center">Git Stats</h3>
 
@@ -82,7 +82,4 @@ As both a programmer and a cybersecurity newbie, I combine two of the most impor
   <br>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ykostov&custom_title=Yasen's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
-<div align="center">
-  <h1> Projects </h1>
-  <h3> Visit <a href="https://vova08.site">Vova08.site </a></h3>
-</div>
+
